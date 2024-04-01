@@ -1,0 +1,9 @@
+{
+  "name": "100-days-css",
+  "scripts": {
+    "dev": "lite-server "
+  },
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
